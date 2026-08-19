@@ -1,0 +1,4 @@
+# UX文案写作指南（dsh-ux-writing）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: ux-writing
+      name: 'dsh-ux-writing'
